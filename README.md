@@ -1,0 +1,4 @@
+- get open weather data from API
+- stream it into something
+- create some ETL process to process it
+- Win
